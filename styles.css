@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #003366;
+    background-color: #0058a3;  /* Ordinationsentzug Blau */
     padding: 20px 0;
 }
 
@@ -47,8 +47,18 @@ section {
     padding: 60px 0;
 }
 
+section h2 {
+    color: #0058a3; /* Ordinationsentzug Blau */
+}
+
+.section-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
+
 footer {
-    background-color: #003366;
+    background-color: #0058a3;  /* Ordinationsentzug Blau */
     padding: 10px 0;
     color: white;
     text-align: center;
